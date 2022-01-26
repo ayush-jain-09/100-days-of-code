@@ -1,0 +1,47 @@
+body{
+    text-align: center;   
+    
+    font-size: 2em;
+}
+.top{
+    background-color: aliceblue;
+}
+h1{
+    font-family: "Sofia", sans-serif;
+    font-size: 3em;
+    color: #66BFBF;
+    
+}
+h2{
+    color: #66BFBF;
+}
+.middle-container{
+    width: auto;
+}
+.skills{
+    width=50%;
+}
+.paragraph{
+    font-style: oblique;
+    font-size: larger;
+}
+.profile-image{
+    color: #66BFBF;
+    width: 20%;
+    height: 20%;  
+}
+.skill-image{
+    color: #66BFBF;
+    width: 20%;
+    height: 20%;
+
+}
+.dsa-image{
+    color: #66BFBF;
+    width: 20%;
+    height: 20%;
+    
+}
+
+
+
